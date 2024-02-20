@@ -1,0 +1,2 @@
+# INR
+Implicit Neural Representation
