@@ -1,5 +1,5 @@
 # INR
-##Implicit Neural Representation
+## Implicit Neural Representation
 
 Implicit Neural Representations parameterize a signal as a continuous function that maps the domain of the signal (i.e., a coordinate, such as a pixel coordinate for an image) to whatever is at that coordinate (for an image, an R,G,B color).
 
